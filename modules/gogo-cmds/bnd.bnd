@@ -1,0 +1,6 @@
+Bundle-Name: gogo-cmds
+Bundle-SymbolicName: com.dnebinger.jackson.gogo
+Bundle-Description: Demonstrates the use of the Jackson modules.
+
+Bundle-Version: 1.0.0
+Export-Package: com.dnebinger.jackson.gogo

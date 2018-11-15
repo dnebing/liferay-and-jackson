@@ -1,0 +1,4 @@
+Bundle-Name: mapping
+Bundle-SymbolicName: com.dnebinger.jackson.mapping
+Bundle-Version: 1.0.0
+Export-Package: com.dnebinger.jackson.mapping.api

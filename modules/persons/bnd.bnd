@@ -1,0 +1,4 @@
+Bundle-Name: Jackson Person
+Bundle-SymbolicName: com.dnebinger.jackson.pojo.person
+Bundle-Version: 1.0.0
+Export-Package: com.dnebinger.jackson.pojo.person

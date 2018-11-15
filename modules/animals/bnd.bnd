@@ -1,0 +1,5 @@
+Bundle-Name: Jackson Animals
+Bundle-SymbolicName: com.dnebinger.jackson.pojo.animal
+Bundle-Version: 1.0.0
+Export-Package: com.dnebinger.jackson.pojo.animal
+
